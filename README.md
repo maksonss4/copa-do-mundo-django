@@ -1,4 +1,4 @@
-Kopa do Mundo
+Copa do Mundo
 
 ## Como rodar os testes localmente
 
